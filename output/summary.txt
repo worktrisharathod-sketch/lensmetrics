@@ -1,0 +1,26 @@
+LensMetrics Inspection Summary
+==============================
+
+Source photo : input/image.jpeg
+Faces marked : 2
+
+[ Geometry ]
+Resolution   : 1200 x 1600 (portrait)
+Channels     : 3
+Megapixels   : 1.92
+Mean luma    : 123.8
+Contrast     : 66.04
+
+[ Clarity ]
+Exposure     : Well-exposed (123.8)
+Focus        : In-focus (score 122.02)
+
+[ Structure ]
+Edge pixels  : 56365 (2.94%)
+Contours     : 859
+
+[ Colour ]
+B/G/R means  : 115.44 / 127.57 / 119.59
+Dominant     : green
+
+Artefacts    : annotated.jpg + edgemap.jpg alongside this file.

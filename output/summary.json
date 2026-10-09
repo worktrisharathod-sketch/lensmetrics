@@ -1,0 +1,45 @@
+{
+  "tool": "LensMetrics",
+  "source": "input/image.jpeg",
+  "face_count": 2,
+  "faces": [
+    [
+      936,
+      86,
+      226,
+      226
+    ],
+    [
+      631,
+      864,
+      141,
+      141
+    ]
+  ],
+  "geometry": {
+    "width": 1200,
+    "height": 1600,
+    "channels": 3,
+    "megapixels": 1.92,
+    "mean_luma": 123.8,
+    "contrast": 66.04,
+    "aspect": "portrait"
+  },
+  "clarity": {
+    "luma": 123.8,
+    "exposure_label": "Well-exposed",
+    "blur_score": 122.02,
+    "focus_label": "In-focus"
+  },
+  "structure": {
+    "edge_pixels": 56365,
+    "edge_ratio": 0.0294,
+    "contour_count": 859
+  },
+  "palette": {
+    "blue": 115.44,
+    "green": 127.57,
+    "red": 119.59,
+    "dominant": "green"
+  }
+}
